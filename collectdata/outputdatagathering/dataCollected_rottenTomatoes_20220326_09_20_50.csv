@@ -1,0 +1,101 @@
+ranking;name;releaseYear;ratingcritics;ratingaudience;durationminutes;genres;directors;languages;reviews;boxofficeusa;writers
+1;It Happened One Night;1934;9.9;9.3;105; Romance,Comedy;Frank Capra;English;25000;;Samuel Hopkins Adams,Robert Riskin
+2;Citizen Kane;1941;9.9;9.0;119; Drama;Orson Welles;English;100000;977300.0;Herman J. Mankiewicz,Orson Welles,John Houseman
+3;The Wizard of Oz;1939;9.8;8.9;101; Musical,Fantasy;Victor Fleming;English;250000;5500000.0;L. Frank Baum,Noel Langley,Florence Ryerson,Edgar Allan Woolf
+4;Modern Times;1936;9.8;9.5;89; Comedy;Charlie Chaplin;English;25000;163200.0;Charlie Chaplin
+5;Black Panther;2018;9.6;7.9;134; Fantasy,Action;Ryan Coogler;English;50000;700200000.0;Ryan Coogler,Joe Robert Cole
+6;Gisaengchung;2019;9.8;9.0;132; Mystery & thriller,Drama;Bong Joon Ho;Korean;5000;53400000.0;Bong Joon Ho,Han Jinwon
+7;Avengers: Endgame;2019;9.4;9.0;181; Adventure,Fantasy;Anthony Russo,Joe Russo;English;50000;858400000.0;Christopher Markus,Stephen McFeely
+8;Casablanca;1942;9.9;9.5;102; Drama;Michael Curtiz;English;250000;;Murray Burnett,Joan Alison,Julius J. Epstein,Philip G. Epstein,Howard Koch
+9;Knives Out;2019;9.7;9.2;130; Mystery & thriller,Crime;Rian Johnson;English;25000;165400000.0;Rian Johnson
+10;Us;2019;9.3;5.9;116; Horror,Mystery & thriller;Jordan Peele;English;10000;175000000.0;Jordan Peele
+11;Toy Story 4;2019;9.7;9.4;100; Fantasy,Animation;Josh Cooley;English;50000;434000000.0;Andrew Stanton,Stephany Folsom
+12;Lady Bird;2017;9.9;7.9;94; Drama,Comedy;Greta Gerwig;English;10000;48900000.0;Greta Gerwig
+13;Mission: Impossible - Fallout;2018;9.7;8.8;147; Adventure,Mystery & thriller;Christopher McQuarrie;English;10000;220100000.0;Christopher McQuarrie
+14;BlacKkKlansman;2018;9.6;8.3;134; Drama,Crime;Spike Lee;English;10000;48600000.0;Charlie Wachtel,David Rabinowitz,Kevin Willmott,Spike Lee
+15;Get Out;2017;9.8;8.6;104; Mystery & thriller,Horror;Jordan Peele;English;50000;176000000.0;Jordan Peele
+16;The Irishman;2019;9.5;8.6;209; Drama,Crime;Martin Scorsese;English;1000;;Steven Zaillian
+17;The Godfather;1972;9.7;9.8;177; Crime,Drama;Francis Ford Coppola;English;250000;134800000.0;Francis Ford Coppola,Mario Puzo,Mario Puzo
+18;Mad Max: Fury Road;2015;9.7;8.6;120; Action,Adventure;George Miller;English;100000;153600000.0;George Miller,Brendan McCarthy,Nick Lathouris
+19;Spider-Man: Into the Spider-Verse;2018;9.7;9.3;117; Fantasy,Animation;Bob Persichetti,Peter Ramsey,Rodney Rothman;English;10000;190200000.0;Phil Lord,Rodney Rothman
+20;Moonlight;2016;9.8;7.9;111; Drama,Lgbtq+;Barry Jenkins;English;25000;27900000.0;Barry Jenkins
+21;Sunset Boulevard;1950;9.8;9.5;110; Drama;Billy Wilder;English;50000;;Charles Brackett,D.M. Marshman Jr.,Billy Wilder
+22;All About Eve;1950;9.9;9.4;138; Drama;Joseph L. Mankiewicz;English;25000;10200.0;Joseph L. Mankiewicz
+23;Das Cabinet des Dr. Caligari;1920;9.9;8.9;69; Mystery & thriller,Fantasy;Robert Wiene;German;25000;;Hans Janowitz,Carl Mayer
+24;The Philadelphia Story;1940;10.0;9.3;112; Romance,Comedy;George Cukor;English;25000;;Philip Barry,Donald Ogden Stewart,Waldo Salt
+25;Roma;2018;9.6;7.2;135; Drama;Alfonso Cuarón;Spanish;5000;;Alfonso Cuarón
+26;Wonder Woman;2017;9.3;8.3;141; Fantasy,Action;Patty Jenkins;English;100000;412800000.0;Allan Heinberg
+27;A Star Is Born;2018;9.0;7.9;135; Drama,Romance;Bradley Cooper;English;10000;215300000.0;Eric Roth,Bradley Cooper,Will Fetters
+28;Inside Out;2015;9.8;8.9;95; Kids & family,Fantasy;Pete Docter;English;100000;2000000.0;Pete Docter,Meg LeFauve,Josh Cooley
+29;A Quiet Place;2018;9.6;8.3;90; Mystery & thriller,Horror;John Krasinski;English;10000;68400000.0;Bryan Woods,Scott Beck,John Krasinski
+30;One Night in Miami;2020;9.8;7.8;110; Drama;Regina King;English;1000;;Kemp Powers
+31;Eighth Grade;2018;9.9;8.2;93; Drama,Comedy;Bo Burnham;English;5000;13500000.0;Bo Burnham
+32;Rebecca;1940;9.9;9.2;130; Mystery & thriller;Alfred Hitchcock;English;25000;;Daphne Du Maurier,Philip MacDonald,Michael Hogan,Robert E. Sherwood,Joan Harrison,Barbara Keon
+33;Booksmart;2019;9.6;7.7;102; Lgbtq+,Comedy;Olivia Wilde;English;2500;22700000.0;Katie Silberman,Emily Halpern,Sarah Haskins,Susanna Fogel
+34;Logan;2017;9.4;9.0;137; Adventure,Fantasy;James Mangold;English;50000;226300000.0;James Mangold,Michael Green,Scott Frank
+35;His Girl Friday;1940;9.9;9.0;92; Comedy;Howard Hawks;English;10000;;Ben Hecht,Charles MacArthur,Charles Lederer
+36;Portrait de la jeune fille en feu;2020;9.8;9.2;121; Drama,Romance;Céline Sciamma;French (France);250;3800000.0;Céline Sciamma
+37;Coco;2017;9.7;9.4;109; Adventure,Animation;Lee Unkrich;English;25000;210500000.0;Adrian Molina,Matthew Aldrich
+38;Dunkirk;2017;9.2;8.1;107; Drama,War;Christopher Nolan;English;50000;188000000.0;Christopher Nolan
+39;Star Wars: The Last Jedi;2017;9.1;4.2;152; Adventure,Fantasy;Rian Johnson;English;100000;620200000.0;Rian Johnson
+40;A Night at the Opera;1935;9.7;9.1;93; Comedy;Sam Wood;English;10000;;
+41;The Shape of Water;2017;9.2;7.2;123; Fantasy,Romance;Guillermo del Toro;English;25000;63300000.0;Guillermo del Toro,Vanessa Taylor
+42;Thor: Ragnarok;2017;9.3;8.7;130; Sci-fi,Action;Taika Waititi;English;50000;315000000.0;Eric Pearson,Craig Kyle,Christopher Yost
+43;Spotlight;2015;9.7;9.3;128; Drama;Tom McCarthy;English;50000;45000000.0;Josh Singer,Tom McCarthy
+44;The Farewell;2019;9.7;8.7;100; Drama,Comedy;Lulu Wang;English;1000;17700000.0;Lulu Wang
+45;Selma;2014;9.9;8.6;128; Drama,History;Ava DuVernay;English;50000;52100000.0;Paul Webb
+46;The Third Man;1949;9.9;9.3;104; Mystery & thriller;Carol Reed;English;50000;447000.0;Graham Greene,Alexander Korda,Graham Greene
+47;Rear Window;1954;9.8;9.5;112; Mystery & thriller;Alfred Hitchcock;English;100000;1600000.0;John Michael Hayes,Cornell Woolrich
+48;E.T. The Extra-Terrestrial;1982;9.9;7.2;115; Adventure,Sci-fi;Steven Spielberg;English;250000;435100000.0;Melissa Mathison
+49;Shichinin no Samurai;1956;10.0;9.7;208; Action;Akira Kurosawa;Japanese;50000;271700.0;Shinobu Hashimoto,Akira Kurosawa,Hideo Oguni
+50;Grand Illusion;1938;9.7;9.2;117; Drama,War;Jean Renoir;French (Canada);10000;516500.0;
+51;Arrival;2016;9.4;8.2;116; Mystery & thriller,Drama;Denis Villeneuve;English;50000;100500000.0;Eric Heisserer
+52;Singin' in the Rain;1952;10.0;9.5;102; Musical,Comedy;Stanley Donen,Gene Kelly;English;100000;23900.0;Betty Comden,Adolph Green
+53;The Favourite;2018;9.3;7.0;120; Comedy,Drama;Yorgos Lanthimos;English (United Kingdom);5000;34200000.0;Deborah Davis,Tony McNamara
+54;Double Indemnity;1944;9.7;9.5;106; Drama,Crime;Billy Wilder;English;25000;;James M. Cain,Billy Wilder,Raymond Chandler
+55;All Quiet on the Western Front;1930;9.8;8.9;105; War;Lewis Milestone;English;10000;;Erich Maria Remarque,George Abbott,Del Andrews,Maxwell Anderson,Maxwell Anderson,Lewis Milestone
+56;Snow White and the Seven Dwarfs;1937;9.8;7.8;80; Kids & family,Fantasy;David Hand;English;250000;;Ted Sears,Richard Creedon,Otto Englander,Dick Rickard,Earl Hurd,Merrill De Maris,Webb Smith
+57;Marriage Story;2019;9.4;8.5;136; Drama,Comedy;Noah Baumbach;English;100;;Noah Baumbach
+58;The Big Sick;2017;9.8;8.8;120; Romance,Comedy;Michael Showalter;English;25000;42900000.0;Emily V. Gordon,Kumail Nanjiani
+59;On the Waterfront;1954;9.9;9.5;108; Drama;Elia Kazan;English;50000;;Budd Schulberg,Budd Schulberg
+60;Star Wars: Episode VII - The Force Awakens;2015;9.3;8.5;136; Fantasy,Sci-fi;J.J. Abrams;English;100000;123000000.0;Lawrence Kasdan,J.J. Abrams,Michael Arndt
+61;An American in Paris;1951;9.6;7.9;113; Romance,Musical;Vincente Minnelli;English;25000;;Alan Jay Lerner
+62;The Best Years of Our Lives;1946;9.8;9.3;172; Drama;William Wyler;English;10000;;MacKinlay Kantor,Robert E. Sherwood
+63;Metropolis;1927;9.7;9.2;123; Drama,Sci-fi;Fritz Lang;German;50000;1200000.0;Fritz Lang,Thea von Harbou,Thea von Harbou
+64;Boyhood;2014;9.7;8.0;165; Drama;Richard Linklater;English;50000;25400000.0;Richard Linklater
+65;Gravity;2013;9.6;7.9;91; Drama,Mystery & thriller;Alfonso Cuarón;English;250000;274100000.0;Alfonso Cuarón,Jonás Cuarón
+66;Leave No Trace;2018;10.0;8.0;108; Drama;Debra Granik;English;5000;6000000.0;Debra Granik,Anne Rosellini
+67;The Maltese Falcon;1941;10.0;9.1;100; Drama,Crime;John Huston;English;50000;;Dashiell Hammett,John Huston
+68;The Invisible Man;2020;9.2;8.8;124; Mystery & thriller,Horror;Leigh Whannell;English;10000;64300000.0;Leigh Whannell
+69;12 Years a Slave;2013;9.5;9.0;134; Drama,Biography;Steve McQueen;English;100000;56700000.0;John Ridley
+70;Once Upon a Time In Hollywood;2019;8.5;7.0;159; Drama,Comedy;Quentin Tarantino;English;25000;142400000.0;Quentin Tarantino
+71;Argo;2012;9.6;9.0;120; Drama,Mystery & thriller;Ben Affleck;English;100000;136000000.0;Chris Terrio
+72;Soul;2020;9.5;8.8;100; Adventure,Kids & family;Pete Docter;English;5000;;Pete Docter,Mike Jones,Kemp Powers
+73;Ma Rainey's Black Bottom;2020;9.7;7.2;94; Drama,Music;George C. Wolfe;English;1000;;Ruben Santiago-Hudson
+74;The Kid;1921;10.0;9.5;60; Drama,Comedy;Charlie Chaplin;English;10000;;Charlie Chaplin
+75;Manchester by the Sea;2016;9.6;7.8;137; Drama;Kenneth Lonergan;English;50000;47700000.0;Kenneth Lonergan
+76;Nosferatu the Vampire;1922;9.7;8.7;65; Fantasy,Horror;F.W. Murnau;German;25000;;Henrik Galeen,Bram Stoker
+77;The Adventures of Robin Hood;1938;10.0;8.9;102; Adventure,Action;Michael Curtiz,William Keighley;English;25000;;Norman Reilly Raine,Seton I. Miller
+78;La La Land;2016;9.1;8.1;128; Drama,Romance;Damien Chazelle;English;50000;151100000.0;Damien Chazelle
+79;North by Northwest;1959;9.7;9.4;136; Mystery & thriller;Alfred Hitchcock;English;50000;;Ernest Lehman
+80;Laura;1944;10.0;9.1;88; Mystery & thriller;Otto Preminger;English;10000;;Jay Dratler,Samuel Hoffenstein,Elizabeth Reinhardt
+81;Spider-Man: Far From Home;2019;9.0;9.5;129; Adventure,Fantasy;Jon Watts;English;50000;390700000.0;Chris McKenna,Erik Sommers
+82;Incredibles 2;2018;9.3;8.4;118; Adventure,Action;Brad Bird;English;10000;608600000.0;Brad Bird
+83;Zootopia;2016;9.8;9.2;108; Adventure,Kids & family;Byron Howard,Rich Moore;English;100000;;Jared Bush,Phil Johnston
+84;Alien;1979;9.8;9.4;117; Horror,Sci-fi;Ridley Scott;English;250000;81100000.0;Dan O'Bannon,Ronald Shusett
+85;King Kong;1933;9.9;8.6;100; Adventure,Fantasy;Merian C. Cooper,Ernest B. Schoedsack;English;50000;;James Ashmore Creelman,Ruth Rose
+86;Shadow of a Doubt;1943;10.0;8.9;108; Drama,Crime;Alfred Hitchcock;English;10000;;Gordon McDonell,Thornton Wilder,Sally Benson,Alma Reville
+87;Call Me by Your Name;2018;9.4;8.6;132; Drama,Romance;Luca Guadagnino;English;10000;18000000.0;James Ivory,Luca Guadagnino,Walter Fasano
+88;Psycho;1960;9.6;9.5;109; Mystery & thriller,Horror;Alfred Hitchcock;English;100000;;Robert Bloch,Joseph Stefano
+89;1917;2020;8.8;8.8;119; War,Drama;Sam Mendes;English;25000;159200000.0;Sam Mendes,Krysty Wilson-Cairns
+90;L.A. Confidential;1997;9.9;9.4;136; Drama,Crime;Curtis Hanson;English;100000;64599999.99999999;Curtis Hanson,James Ellroy,Brian Helgeland
+91;The Florida Project;2017;9.6;8.0;115; Drama;Sean Baker;English;10000;5800000.0;Sean Baker,Chris Bergoch
+92;War for the Planet of the Apes;2017;9.4;8.4;142; Action,Sci-fi;Matt Reeves;English;50000;146800000.0;Matt Reeves,Mark Bomback
+93;Paddington 2;2018;9.9;8.7;103; Adventure,Kids & family;Paul King;English (United Kingdom);5000;38400000.0;Paul King,Simon Farnaby
+94;A Hard Day's Night;1964;9.8;8.9;83; Musical,Comedy;Richard Lester;English;50000;;Alun Owen
+95;Widows;2018;9.1;6.1;128; Mystery & thriller,Crime;Steve McQueen;English;5000;42400000.0;Steve McQueen,Gillian Flynn
+96;Never Rarely Sometimes Always;2020;9.9;5.3;101; Drama;Eliza Hittman;English;1000;16300.0;Eliza Hittman
+97;Baby Driver;2017;9.2;8.6;113; Mystery & thriller,Action;Edgar Wright;English;50000;107800000.0;Edgar Wright
+98;Spider-Man: Homecoming;2017;9.2;8.7;133; Adventure,Fantasy;Jon Watts;English;100000;334400000.0;Jonathan M. Goldstein,John Francis Daley,Jon Watts,Christopher Ford,Chris McKenna,Erik Sommers
+99;The Godfather, Part II;1974;9.6;9.7;200; Crime,Drama;Francis Ford Coppola;English;250000;;Francis Ford Coppola,Mario Puzo
+100;La Battaglia di Algeri;1967;9.9;9.5;125; War,Drama;Gillo Pontecorvo;Arabic;10000;55900.0;
